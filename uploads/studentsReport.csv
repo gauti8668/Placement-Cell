@@ -1,0 +1,7 @@
+student Id, Student name,Student college, Student email, Student status, DSA Final Score, WebD Final Score, React Final Score, Interview date, Interview company, Interview result
+64c6cdaedcc0674dd4878b19, Ajeet Singh,IEC College of engineering & technology ,ajeetsingh8139@gmail.com,undefined,8,9,8,2023-08-02,Google,PASS
+64c6cdaedcc0674dd4878b19, Ajeet Singh,IEC College of engineering & technology ,ajeetsingh8139@gmail.com,undefined,8,9,8,2023-08-05,Amazon,PASS
+64c6cdd0dcc0674dd4878b1e,Vikas Singh,IILM,vikassingh2001@gmail.com,undefined,5,6,7,2023-08-02,Google,On Hold
+64c6cdd0dcc0674dd4878b1e,Vikas Singh,IILM,vikassingh2001@gmail.com,undefined,5,6,7,2023-08-05,Amazon,FAIL
+64c6cdfedcc0674dd4878b23,Awanish Singh,PIIT,singhawanish107@gmail.com,undefined,9,8,9,2023-08-02,Google,Didn't attempt
+64c6cdfedcc0674dd4878b23,Awanish Singh,PIIT,singhawanish107@gmail.com,undefined,9,8,9,2023-08-05,Amazon,On Hold
